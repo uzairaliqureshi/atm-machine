@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./quiz.scss";
+import "./atm.scss";
 
 export default function () {
     // for amount and preferred note

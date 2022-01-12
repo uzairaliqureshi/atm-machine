@@ -1,5 +1,5 @@
 import reactDom from "react-dom";
-import Quiz from "./Quiz";
+import Atm from "./Atm";
 import "./index.scss";
 
-reactDom.render(<Quiz />, document.querySelector("#root"));
+reactDom.render(<Atm />, document.querySelector("#root"));
